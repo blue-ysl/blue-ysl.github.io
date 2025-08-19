@@ -1,0 +1,8 @@
+    ---
+    layout: post
+    title: "My Awesome Post"
+    date: 2023-01-01
+    category: Guides 
+    # Or for multiple categories:
+    # categories: [Guides, Tutorials]
+    ---
